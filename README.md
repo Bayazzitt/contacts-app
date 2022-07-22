@@ -1,6 +1,6 @@
 # → Kişiler Uygulaması ←
 
-> ### Proje Link 📎 → 
+> ### Proje Link 📎 → https://contacts-fcmew1596-bayazzitt.vercel.app/
 
 <br>
 
