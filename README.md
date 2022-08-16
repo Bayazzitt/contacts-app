@@ -4,12 +4,6 @@
 
 <br>
 
->↓ Uygulama İçi Görsel ↓ 🖼
-
-
-
-<br>
-
 >↓ Kullanılan Araçlar ↓ 🛠
 
 * HTML
